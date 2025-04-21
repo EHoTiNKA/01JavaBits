@@ -8,8 +8,8 @@ Created using:
 
 ## Expression of gratitude
 
-I want to thank - Was Bosch 
-And recommend to everyone his free course, which creates projects from this series - https://javascript30.com
+- I want to thank - Was Bosch 
+- And recommend to everyone his free course, which creates projects from this series - https://javascript30.com
 
 ## Installation
 
